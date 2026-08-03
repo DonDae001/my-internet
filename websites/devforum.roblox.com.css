@@ -52,13 +52,8 @@ section,
 .oc-content--main,
 body.dark_mode,
 body.light_mode,
-text-div > textarea {
-  background: none !important;
-}
-.category.category-forum-help.archetype-regular {
-	background: none !important;
-}
+text-div > textarea,
+.category.category-forum-help.archetype-regular, 
 .signup-cta.alert.alert-info {
 	background: none !important;
 }
-
