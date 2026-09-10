@@ -53,7 +53,7 @@ section,
 body.dark_mode,
 body.light_mode,
 text-div > textarea,
-.category.category-forum-help.archetype-regular, 
+.category.category-forum-help.archetype-regular,
 .signup-cta.alert.alert-info,
 blockquote,
 .primary,
@@ -64,16 +64,16 @@ blockquote,
 details,
 #ember13-header,
 #ember15-header {
-	background: none !important;
+  background: none !important;
 }
 
 /* hide footer */
 .MuiGrid-root.MuiGrid-container.css-770sur-Grid-root,
 .gpc-privacy-choices-container {
-    display: none !important;
+  display: none !important;
 }
 
 /* hide adchoices button */
 #_evh-link {
-    display: none !important;
+  display: none !important;
 }
