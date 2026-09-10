@@ -52,6 +52,28 @@ section,
 .oc-content--main,
 body.dark_mode,
 body.light_mode,
-text-div > textarea {
-  background: none !important;
+text-div > textarea,
+.category.category-forum-help.archetype-regular, 
+.signup-cta.alert.alert-info,
+blockquote,
+.primary,
+.details,
+#user-content,
+.badge-card,
+.post-list-item,
+details,
+#ember13-header,
+#ember15-header {
+	background: none !important;
+}
+
+/* hide footer */
+.MuiGrid-root.MuiGrid-container.css-770sur-Grid-root,
+.gpc-privacy-choices-container {
+    display: none !important;
+}
+
+/* hide adchoices button */
+#_evh-link {
+    display: none !important;
 }
