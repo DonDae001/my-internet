@@ -5,6 +5,29 @@ body,
 .web-blox-css-tss-1pla7pb-updatesContainer,
 .web-blox-css-tss-hfzkng-Grid-root-container,
 .web-blox-css-tss-kqp5ww-background,
-.web-blox-css-tss-xr39s8-Grid-root-scroll-railContainer-railContainerTransition {
+.web-blox-css-tss-xr39s8-Grid-root-scroll-railContainer-railContainerTransition,
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation1.MuiCard-root.web-blox-css-tss-1i4owke-Card-root-card.web-blox-css-mui-1xb8tpm,
+.web-blox-css-tss-h49f4m-background,
+.web-blox-css-tss-19jcysg-updatesContainer,
+#community-story-list,
+.MuiGrid-root.web-blox-css-tss-1vldyil-Grid-root-root.MuiGrid-container.web-blox-css-mui-1cn3yto,  
+.web-blox-css-tss-1wvntg-updatesContainer-updatesContainerCollapsed,
+.web-blox-css-tss-ey0s3-container,
+.web-blox-css-tss-1gr0jxe-searchContainer,
+.MuiPaper-root.web-blox-css-tss-1rbsorm-drawerPaper.MuiPaper-elevation.MuiPaper-elevation0.MuiDrawer-paper.MuiDrawer-paperAnchorLeft.MuiDrawer-paperAnchorDockedLeft.web-blox-css-mui-fsm09i,
+.stroke-standard.stroke-muted.radius-large,
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation1.MuiCard-root.stroke-standard.stroke-muted.hover\:bg-shift-100.web-blox-css-tss-1lvc9pf-Card-root-root-root.web-blox-css-mui-1xb8tpm,
+.MuiGrid-root.web-blox-css-tss-v83zzw-Grid-root-container.web-blox-css-mui-rfnosa,
+.MuiGrid-root.web-blox-css-tss-1y89afg-Grid-root-container.MuiGrid-container.web-blox-css-mui-1d3bbye,
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation1.MuiAccordion-root.web-blox-css-tss-1c5dg37-Accordion-root-accordion.MuiAccordion-rounded.MuiAccordion-gutters.web-blox-css-mui-1h6uyfq,
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation1.MuiCard-root.web-blox-css-tss-1a3av96-Card-root-noResultsContainer.web-blox-css-mui-1xb8tpm,
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation1.MuiCard-root.web-blox-css-tss-1mh80k9-Card-root-sectionContainer.web-blox-css-mui-1xb8tpm,
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation1.MuiCard-root.web-blox-css-tss-q8mkzy-Card-root-balanceContainer.web-blox-css-mui-1xb8tpm,
+.MuiGrid-root.web-blox-css-tss-hs3v5r-Grid-root-scroll-railContainer-railContainerTransition.web-blox-css-mui-rfnosa {
   background: none !important;
+}
+
+/* hide footer */
+.web-blox-css-mui-1d3bbye.MuiGrid-container.web-blox-css-tss-hfzkng-Grid-root-container.MuiGrid-root {
+    display: none !important
 }
